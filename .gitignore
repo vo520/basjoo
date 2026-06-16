@@ -124,7 +124,7 @@ temp/
 .worktrees/
 
 # Local planning docs
-/docs/
+# /docs/
 
 # Local AI/code intelligence caches
 .pi-lens/cache/
