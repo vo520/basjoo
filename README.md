@@ -490,4 +490,4 @@ Basjoo is built on top of these amazing open-source projects:
 
 ## Current status
 
-This README reflects the repository as it exists now. If you change deployment flows, provider support, or package scripts, update this file alongside the code.
+This README reflects the repository as it exists now. If you change deployment flows, provider support, or package scripts, update this file alongside the code.test
